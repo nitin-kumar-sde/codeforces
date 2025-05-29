@@ -13,6 +13,7 @@ Each problem here has been selected to cover a diverse set of topics and techniq
 | Problem ID | Title                | Difficulty | Link                                                         |
 |------------|---------------------|------------|--------------------------------------------------------------|
 | 2070C      | Limited Repainting  | 1500       | [Link](https://codeforces.com/contest/2070/problem/C)        |
+| 702C      | Cellular Network    | 1500       | [Link](https://codeforces.com/problemset/problem/702/C)        |
 
 ### 🚪 Sliding Window
 
