@@ -10,12 +10,15 @@ Each problem here has been selected to cover a diverse set of topics and techniq
 
 ### 🔍 Binary Search
 
-| Problem ID | Title                        | Difficulty | Link                                              |
-|------------|------------------------------|------------|---------------------------------------------------|
-| 2070C       | Limited Repainting    | 1500       | [Link](https://codeforces.com/contest/2070/problem/C) |
+| Problem ID | Title                | Difficulty | Link                                                         |
+|------------|---------------------|------------|--------------------------------------------------------------|
+| 2070C      | Limited Repainting  | 1500       | [Link](https://codeforces.com/contest/2070/problem/C)        |
 
+### 💰 Greedy
 
-
+| Problem ID | Title                | Difficulty | Link                                                         |
+|------------|---------------------|------------|--------------------------------------------------------------|
+| 2106D      | Flower Boy          | 1500       | [Link](https://codeforces.com/problemset/problem/2106/D)     |
 
 
 ## 💬 Contributing
