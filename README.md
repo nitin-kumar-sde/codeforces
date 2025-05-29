@@ -19,6 +19,7 @@ Each problem here has been selected to cover a diverse set of topics and techniq
 | Problem ID | Title                | Difficulty | Link                                                         |
 |------------|---------------------|------------|--------------------------------------------------------------|
 | 580B      | Kefa and Company     | 1500       | [Link](https://codeforces.com/problemset/problem/580/B)      |
+| 676C      | Vasya and String     | 1500       | [Link](https://codeforces.com/problemset/problem/676/C)      |
 
 ### 💰 Greedy
 
