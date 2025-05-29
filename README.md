@@ -14,6 +14,12 @@ Each problem here has been selected to cover a diverse set of topics and techniq
 |------------|---------------------|------------|--------------------------------------------------------------|
 | 2070C      | Limited Repainting  | 1500       | [Link](https://codeforces.com/contest/2070/problem/C)        |
 
+### 🚪 Sliding Window
+
+| Problem ID | Title                | Difficulty | Link                                                         |
+|------------|---------------------|------------|--------------------------------------------------------------|
+| 580B      | Kefa and Company     | 1500       | [Link](https://codeforces.com/problemset/problem/580/B)      |
+
 ### 💰 Greedy
 
 | Problem ID | Title                | Difficulty | Link                                                         |
