@@ -26,6 +26,7 @@ Each problem here has been selected to cover a diverse set of topics and techniq
 
 | Problem ID | Title                | Difficulty | Link                                                         |
 |------------|---------------------|------------|--------------------------------------------------------------|
+| 1492C      | Maximum width       | 1500       | [Link](https://codeforces.com/problemset/problem/1492/C)     |
 | 2106D      | Flower Boy          | 1500       | [Link](https://codeforces.com/problemset/problem/2106/D)     |
 
 
