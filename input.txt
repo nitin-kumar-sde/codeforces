@@ -1,2 +1,9 @@
-9 2
-6 19 3 4 4 2 6 7 8
+4
+ababa
+ba
+ababa
+bb
+aaa
+aaaa
+aababa
+ababa
