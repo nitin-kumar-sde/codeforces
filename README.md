@@ -30,6 +30,12 @@ Each problem here has been selected to cover a diverse set of topics and techniq
 | 2106D      | Flower Boy          | 1500       | [Link](https://codeforces.com/problemset/problem/2106/D)     |
 | 1253C      | Sweets Eating       | 1500       | [Link](https://codeforces.com/problemset/problem/1253/C)     |
 
+### 🧑‍🤝‍🧑 Two Pointers
+
+| Problem ID | Title                | Difficulty | Link                                                         |
+|------------|---------------------|------------|--------------------------------------------------------------|
+| 1553D      | Backspace           | 1500       | [Link](https://codeforces.com/problemset/problem/1553/D)     |
+
 
 ## 💬 Contributing
 
